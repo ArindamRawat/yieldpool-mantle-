@@ -16,7 +16,7 @@ A modern, lightweight DeFi protocol where users pool stablecoins together, and t
  
 ## Video Demo:
 
-[View](https://youtu.be/VCv9bXFDjfU)
+[View](https://youtu.be/imYo7OpWb0w)
 
 
 ## 🛠️ Tech Stack
@@ -284,3 +284,4 @@ If you encounter any issues:
 ---
 
 Built with ❤️ for the DeFi community
+
